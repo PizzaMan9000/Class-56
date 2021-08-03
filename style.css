@@ -1,0 +1,10 @@
+body {
+    text-align:center;
+    font-family: sans-serif;
+    
+}
+h1 {
+    border-style:ridge;
+    border-width:5px;
+    background-color:aquamarine;
+}
